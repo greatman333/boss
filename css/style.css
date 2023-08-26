@@ -1,0 +1,294 @@
+.brother{
+width: 710px;
+line-height: 40px;
+color: black;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.y{
+float: left;
+margin: 39px 10px 30px 50px;
+position: relative;
+left: 350px;
+}
+
+.brother2{
+    border-radius: 3%;
+    position: relative;
+    left: 270px;
+    top: 120px;
+    width: 225px;
+    height: 340px;
+}
+
+.y1{
+    border-radius: 4%;
+    float: left;
+    position: relative;
+    left: 330px;
+    top: 20px;
+    width: 225px;
+}
+
+.body{
+    margin: auto;
+    text-align: center;
+    width: 600px;
+}
+
+.hr{
+    margin-top: 30px;
+    width: 770px;
+    position: relative;
+    right: 90px;
+    border: 1px solid rgb(173, 173, 173);
+    font-weight: 300;
+    top: 60px;
+}
+
+.text{
+    position: relative;
+    top: 40px;
+    right: 15px;
+    line-height: 45px;
+}
+
+.part2{
+    font-family: ui-sans-serif, system-ui;
+    font-size: 21px;
+    line-height: 30px;
+    Font-weight: 300;
+    color: rgb(74, 85, 104);
+    width: 790px;
+    position: relative;
+    left: 365px;
+    bottom: 20px;
+}
+
+.name{
+position: relative;
+left: 430px;
+}
+
+.ajibuji{
+    position: relative;
+    left: 430px;
+}
+
+.uzbek{
+position: relative;
+right: 135px;
+
+}
+
+.part1{
+    position: relative;
+    left: 420px;
+    width: 50%;
+    margin: 2% 1% 3% 1%;
+}
+
+.Xushnudbek{
+position: relative;
+left: 470px;
+}
+
+.enter{
+position: relative;
+top: 300px;
+width: 200px;
+}
+
+.text1{
+    font-family: ui-sans-serif, system-ui;
+    font-size: 21px;
+    line-height: 30px;
+    Font-weight: 300;
+    color: rgb(74, 85, 104);
+    width: 790px;
+    position: relative;
+    left: 425px;
+    bottom: 20px;
+    top: 25px;
+}
+
+.text2{
+    font-family: ui-sans-serif, system-ui;
+    font-size: 21px;
+    line-height: 30px;
+    Font-weight: 300;
+    color: rgb(74, 85, 104);
+    width: 500px;
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+    top: 50px
+}
+
+.logi{
+    position: relative;
+    left: 20px;
+}
+
+.suport{
+    position: relative;
+    font-family: ui-sans-serif, system-ui;
+    margin-top: 20px;
+    font-weight: 750;
+    font-size: 35px;
+    width: 830px;
+    left: 320px;
+    bottom: 25px;
+    
+}
+
+.span{
+    font-family: ui-sans-serif, system-ui;
+    font-size: 21px;
+    line-height: 30px;
+    Font-weight: 300;
+    color: rgb(74, 85, 104);
+    width: 790px;
+    position: relative;
+    left: 333px;
+    bottom: 20px
+}
+
+.rosso{
+    border-radius: 4%;
+    float: left;
+    position: relative;
+    left: 335px;
+    width: 225px;
+    bottom: 50px;
+}
+
+.e{
+    width: 700px;
+    Font-size: 20px;
+    Font-weight: 700;
+    Line-height: 45px;
+    color: rgb(74, 85, 104);
+    font-family: ui-sans-serif, system-ui;
+    position: relative;
+    left: 440px;
+    bottom: 20px;
+}
+
+.camera{
+    font-family: ui-sans-serif, system-ui;
+    width: 700px;
+    text-align: left;
+    Font-size: 20px;
+    Font-weight: 400;
+    Line-height: 30px;
+    color: rgb(100, 100, 103);
+    position: relative;
+    top: 23px;
+    right: 2px;
+    bottom: 20px;
+}
+
+.class{
+    position: relative;
+    border-radius: 4%;
+    left: 670px;
+    top: 85px;
+    width: 225px;
+    height: 340px;
+}
+
+.a{
+    border-radius: 3%;
+    position: relative;
+    left: 325px;
+    width: 700px;
+    height: 340px;
+    bottom: 220px;
+}
+
+.off{
+    width: 450px;
+    text-align: left;
+    font-size: 20px;
+    Font-weight: 400;
+    font-family: ui-sans-serif, system-ui;
+    Line-height: 30px;
+    color: rgb(74, 85, 104);
+    position: relative;
+    left: 325px;
+    bottom: 490px;
+}
+
+.menu{
+    margin-top: 30px;
+    width: 840px;
+    position: relative;
+    border: 1px solid rgb(173, 173, 173);
+    font-weight: 300;
+    left: 10px;
+    bottom: 355px;
+}
+
+.number{
+    font-family: ui-sans-serif, system-ui;
+    margin-top: 30px;
+    font-weight: 750;
+    font-size: 40px;
+    width: 780px;
+    position: relative;
+    left: 470px;
+    bottom:  360px;
+}
+
+.g{
+    font-family: ui-sans-serif, system-ui;
+    font-size: 21px;
+    line-height: 30px;
+    Font-weight: 300;
+    color: rgb(74, 85, 104);
+    width: 790px;
+    position: relative;
+    left: 345px;
+    bottom: 350px;
+} 
+
+.o{
+    position: relative;
+    width: 800px;
+    left: 35px;
+    bottom: 300px;
+}
+
+.footer2{
+position: relative;
+left: 400px;
+bottom: 270px;
+width: 650px;
+color: gray;
+}
+
+.footer{
+    position: relative;
+    left: 550px;
+    width: 500px;
+    bottom: 280px;
+    color: gray;
+}
+
+.body{
+    margin-bottom: -200px;
+}
+
+.k{
+    position: relative;
+    color: #1124f1;
+    bottom: 200px;
+    left: 600px;
+    width: 225px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: aqua;
+}
+
